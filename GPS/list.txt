@@ -1,0 +1,5 @@
+; GPS block list
+
+300 PseudoMsgBox00.asm
+301 PseudoMsgBox01.asm
+302 PseudoMsgBox02.asm
